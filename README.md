@@ -14,4 +14,12 @@ Aprendi a criar minha conta gratuitamente no Azure, os fundamentos básicos de C
 - **IaaS:** máquinas virtuais, redes e storage gerenciados.  
 - **PaaS:** plataformas prontas para apps e funções serverless.  
 - **SaaS:** software hospedado (Office 365, Dynamics 365).  
-- **Serviços especializados:** bancos de dados, AI/ML, IoT, Analytics, DevOps.  
+- **Serviços especializados:** bancos de dados, AI/ML, IoT, Analytics, DevOps.
+  
+## 4. Grupo de Recursos
+- É como uma **pasta** para agrupar recursos do Azure (máquinas virtuais, bancos de dados, redes etc.).  
+- Serve para:  
+  - Organizar recursos por projeto ou ambiente  
+  - Definir permissões de acesso em conjunto  
+  - Criar, mover ou excluir tudo de uma vez  
+- Exemplo de nome: `rg-meuApp-teste`, `rg-meuApp-producao`  
