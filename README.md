@@ -21,5 +21,5 @@ Aprendi a criar minha conta gratuitamente no Azure, os fundamentos básicos de C
 - Serve para:  
   - Organizar recursos por projeto ou ambiente  
   - Definir permissões de acesso em conjunto  
-  - Criar, mover ou excluir tudo de uma vez  
-- Exemplo de nome: `rg-meuApp-teste`, `rg-meuApp-producao`  
+  - Criar, mover ou excluir tudo de uma vez
+   
