@@ -1,25 +1,34 @@
-# Resumo Lab Azure
+# Azure
 
 ## 1. Introdução ao Azure
-Aprendi a criar minha conta gratuitamente no Azure, os fundamentos básicos de Cloud Computing e sua importância dentro do mundo da TI. Além disso, entendi conceitos como **CapEx** e **OpEx** e a importância do gerenciamento de custos na plataforma.
+
+Conta gratuita criada para explorar os serviços de Cloud Computing da Microsoft. Aprendi conceitos básicos de custos (CapEx vs. OpEx) e gerenciamento de recursos.
 
 ## 2. Benefícios do Azure
-- **Escalabilidade simplificada:** ajuste dinâmico de recursos de computação, armazenamento e bancos de dados sem necessidade de aquisição de hardware adicional.  
-- **Cobrança sob demanda:** pagamento apenas pelo consumo efetivo de recursos, eliminando custos fixos e investimentos iniciais.  
-- **Serviços gerenciados prontos para uso:** disponibilização imediata de máquinas virtuais, bancos de dados e soluções de armazenamento, reduzindo o tempo de provisionamento.  
-- **Alta disponibilidade:** data centers distribuídos geograficamente garantem continuidade operacional, resiliência e baixa latência.  
-- **Segurança integrada:** mecanismos nativos de controle de acesso, criptografia de dados e políticas de backup em conformidade com padrões internacionais (ISO, GDPR, LGPD).
 
-## 3. Tipos de Serviço
-- **IaaS:** máquinas virtuais, redes e storage gerenciados.  
-- **PaaS:** plataformas prontas para apps e funções serverless.  
-- **SaaS:** software hospedado (Office 365, Dynamics 365).  
-- **Serviços especializados:** bancos de dados, AI/ML, IoT, Analytics, DevOps.
-  
-## 4. Grupo de Recursos
-- É como uma **pasta** para agrupar recursos do Azure (máquinas virtuais, bancos de dados, redes etc.).  
-- Serve para:  
-  - Organizar recursos por projeto ou ambiente  
-  - Definir permissões de acesso em conjunto  
-  - Criar, mover ou excluir tudo de uma vez
-   
+* **Escalabilidade**: aumentar ou reduzir recursos conforme a demanda.
+* **Pagamento por uso**: pagar só pelo o que consome.
+* **Serviços prontos**: deploy de VMs, bancos de dados e funcionalidades serverless.
+* **Alta disponibilidade**: infraestrutura global.
+
+## 3. Grupos de Recursos
+
+Organizam recursos (VMs, bancos de dados, funções) em grupos para facilitar gerenciamento e permissões.
+
+## 4. Desafios de Projeto
+
+* Padronizar nomes dos recursos para facilitar identificação.
+* Monitorar limites e custos dos serviços.
+* Definir políticas de segurança e conformidade.
+
+## 5. Máquinas Virtuais
+
+Computadores virtuais completos na nuvem: escolher o tamanho, instalar o sistema operacional e rodaar as aplicações.
+
+## 6. Área de Trabalho Virtual
+
+Desktop remoto gerenciado na nuvem: acessar o Windows de qualquer lugar, como se estivesse no PC local.
+
+## 7. Azure Functions
+
+Plataforma serverless para executar código em resposta a eventos (HTTP, agendamentos, mensagens). Só cobra pelo tempo de execução.
