@@ -5,8 +5,11 @@ Conta gratuita criada para explorar os serviços de Cloud Computing da Microsoft
 
 ## 2. Benefícios do Azure
 **Escalabilidade**: aumentar ou reduzir recursos conforme a demanda.
+
 **Pagamento por uso**: pagar só pelo que consome.
+
 **Serviços prontos**: deploy de VMs, bancos de dados e funcionalidades serverless.
+
 **Alta disponibilidade**: infraestrutura global.
 
 ## 3. Grupos de Recursos
