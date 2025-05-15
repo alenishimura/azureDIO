@@ -1,4 +1,4 @@
-# Azure
+# Microsoft Azure
 
 ## 1. Introdução ao Azure
 Conta gratuita criada para explorar os serviços de Cloud Computing da Microsoft. Aprendi conceitos básicos de custos (CapEx vs. OpEx) e gerenciamento de recursos.
