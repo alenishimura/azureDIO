@@ -36,4 +36,4 @@ Soluções de voz tais como converter fala em texto e vice-versa, tradução de 
 Serviço de linguagem baseado em análise de sentimentos e opinion mining, key-phrase extraction, entendimento da linguagem coloquial, reconhecimento de entidades nomeadas e analíse de texto pra saúde, isso tudo dentro de modelos customizáveis que podem ser treinados com dados (hoje contido no pacote Azure AI services).
 
 ## 10. Azure Document Inteligence Studio
-Inteligência para interpretação e leitura dos dados dentro documentos para armazenar os dados contidos nos mesmos.(ex: Prestação de contas).
+Inteligência para interpretação e leitura dos dados dentro documentos para armazenar os dados contidos nos mesmos(ex: prestação de contas em viagens).
