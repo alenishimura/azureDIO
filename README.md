@@ -37,3 +37,11 @@ Serviço de linguagem baseado em análise de sentimentos e opinion mining, key-p
 
 ## 10. Azure Document Inteligence Studio
 Inteligência para interpretação e leitura dos dados dentro documentos para armazenar os dados contidos nos mesmos(ex: prestação de contas em viagens).
+
+## Azure AI 
+### O Azure AI é um conjunto de serviços de inteligência artificial da Microsoft, ele se organiza em três grandes nichos:
+**-Azure Cognitive Services**: APIs “prontas para uso” que expõem modelos de visão, fala, linguagem e decisão sem você precisar treinar do zero;
+
+**-Azure Machine Learning**: Plataforma MLOps completa para cientistas e engenheiros de dados;
+
+**-Azure OpenAI Services**: Acesso gerenciado a grandes modelos de linguagem (GPT-4, Codex, DALL·E) via API, com governança corporativa.
